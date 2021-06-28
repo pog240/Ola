@@ -1,6 +1,6 @@
 # TCGA Data Download Workflow
 * select your file type
-1 Data Category/
+1 Data Category
 2 Experimental Strategy
 3 Workflow Type
 4 Data Format
